@@ -4,4 +4,4 @@ clear
 clear
 ls -l -a
 echo "Got it finally"
-ls
+ls -l
